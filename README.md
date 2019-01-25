@@ -29,5 +29,4 @@ The `general.enabled_plugins` list should look like this:
 ```
 
 ## Configuration
-None
-Go to the Plugin Administration page to enable or disable as needed.
+None - enable/disable in the Plugin Administration page.
