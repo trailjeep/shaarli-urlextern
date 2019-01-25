@@ -31,5 +31,5 @@ The `general.enabled_plugins` list should look like this:
 ## Configuration
 None - enable/disable in the Plugin Administration page.
 
-## Reference(s)
+## Credits
 Javascript [code](https://gist.github.com/CrocoDillon/7989214) by [@CrocoDillon](https://github.com/CrocoDillon).
