@@ -32,4 +32,4 @@ The `general.enabled_plugins` list should look like this:
 None - enable/disable in the Plugin Administration page.
 
 ## Reference(s)
-Javascript found [here](https://gist.github.com/CrocoDillon/7989214).
+Javascript [code](https://gist.github.com/CrocoDillon/7989214) by @CrocoDillon.
