@@ -34,8 +34,8 @@ function hook_urlextern_render_footer($data)
 /**
  * This function is never called, but contains translation calls for GNU gettext extraction.
  */
-function demo_dummy_translation()
+function urlextern_translation()
 {
     // meta
-    t('A demo plugin covering all use cases for template designers and plugin developers.');
+    t('Open external links in new tab/window');
 }
