@@ -1,5 +1,7 @@
 # shaarli-urlextern
-Shaarli plugin to open external links in a new tab/window.
+[Shaarli](https://github.com/shaarli/Shaarli) plugin to open external links in a new tab/window.
+
+Should work with any template.
 
 ## Installation
 The plugin's folder (`urlextern`) should be placed in the `<shaarli>/plugins/` directory.
